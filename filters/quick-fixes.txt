@@ -52,14 +52,14 @@ youtube.com##+js(json-prune, playerResponse.adPlacements playerResponse.playerAd
 !#endif
 !#endif
 !#if ext_devbuild
-||youtube.com/s/desktop/*/jsbin/desktop_polymer.vflset/desktop_polymer.js$uritransform=/desktop\/\w+\/jsbin/desktop\/bcd251ee\/jsbin/,domain=www.youtube.com
+||youtube.com/s/desktop/*/jsbin/desktop_polymer.vflset/desktop_polymer.js$uritransform=/desktop\/\w+\/jsbin/desktop\/f4449159\/jsbin/,domain=www.youtube.com
 !#endif
 
 ! https://github.com/uBlockOrigin/uAssets/issues/18476
 ! VOE sites
-||imasdk.googleapis.com/js/sdkloader/ima3.js$script,3p,redirect=google-ima.js,domain=lukecomparetwo.com
-lukecomparetwo.com##+js(nowoif)
-lukecomparetwo.com##+js(set, console.clear, undefined)
+||imasdk.googleapis.com/js/sdkloader/ima3.js$script,3p,redirect=google-ima.js,domain=kennethofficialitem.com
+kennethofficialitem.com##+js(nowoif)
+kennethofficialitem.com##+js(set, console.clear, undefined)
 
 ! https://github.com/uBlockOrigin/uAssets/issues/16083
 dragontea.ink##html:not(:has(link[href="https://dragontea.ink/xmlrpc.php"], link[href="/cdn-cgi/styles/challenges.css"])) > body:not(.page-template)
